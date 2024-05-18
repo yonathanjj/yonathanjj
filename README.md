@@ -22,14 +22,25 @@ print("🖥️ Should you wish to establish a connection within the Matrix, dire
 
 ''' Skills '''
 print("Skills:")
+
 print("- Python/PyQt: Unleashing the power of Python to craft dynamic user interfaces.")
+
 print("- MySQL: Crafting scalable databases with SQL.")
+
 print("- MongoDB: Embracing the flexibility of NoSQL databases.")
+
 print("- C: Delving into the heart of system-level programming.")
+
 print("- Golang: Building robust and efficient systems with Go.")
+
 print("- Git/GitHub: Navigating the version control universe like a seasoned space explorer.")
+
 print("- HTML and CSS: Crafting visually stunning web experiences.")
+
 print("- AWS (Still improving): Harnessing the cloud to power our digital dreams.")
+
+
+if your wondering why i used multi line comment instead on using # is because Github thought it was a header.
 
 <!---
 yonathanjj/yonathanjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
