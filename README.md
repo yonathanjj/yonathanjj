@@ -31,7 +31,6 @@ print("- Git/GitHub: Navigating the version control universe like a seasoned spa
 print("- HTML and CSS: Crafting visually stunning web experiences.")
 print("- AWS (Still improving): Harnessing the cloud to power our digital dreams.")
 
-
 <!---
 yonathanjj/yonathanjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
