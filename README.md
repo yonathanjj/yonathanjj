@@ -1,6 +1,6 @@
 # 🕶️ Yonathan Jabir
 
-In pursuit of polymathy, I wander between software and industrial design—  
+In pursuit of polymathy, I wander between software and industrial design,  
 drawn to the elegance of architecture, whether digital or tangible.  
 Perfection is both my compass and my burden; every creation,  
 a dialogue between form and function, beauty and utility.  
