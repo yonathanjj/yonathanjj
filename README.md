@@ -5,7 +5,7 @@ drawn to the elegance of architecture, whether digital or tangible.
 Perfection is both my compass and my burden; every creation,  
 a dialogue between form and function, beauty and utility.  
 
-Currently shaping ideas at **Plegma**.  
+Currently shaping ideas at **Plegma-co**.  
 Open to collaborations, challenges, and the unexpected paths they bring.  
 
 📧 yonathanjabir77@gmail.com  
